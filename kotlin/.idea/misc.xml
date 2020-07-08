@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckstyleConfigurable">
+    <option name="suppFilterFilename" value="" />
+    <option name="suppCommentFilter" value="false" />
+    <option name="offComment" value="CHECKSTYLE\:OFF" />
+    <option name="onComment" value="CHECKSTYLE\:ON" />
+    <option name="checkFormat" value=".*" />
+    <option name="messageFormat" value="" />
+    <option name="checkCPP" value="true" />
+    <option name="checkC" value="true" />
+    <option name="suppNearbyCommentFilter" value="false" />
+    <option name="snCommentFormat" value="SUPPRESS CHECKSTYLE (\w+)" />
+    <option name="snCheckFormat" value="$1" />
+    <option name="snMessageFormat" value="" />
+    <option name="snInfluenceFormat" value="0" />
+    <option name="snCheckCPP" value="true" />
+    <option name="snCheckC" value="true" />
+    <option name="pathToUserRulesConfiguration" value="" />
+    <option name="pathToJarWithRules" value="" />
+  </component>
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Facu/tadp-clases/funcional-inmutable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Facu/tadp-clases/grupo3-2019-1c/scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Facu/tadp-clases/grupo3-2019-1c/tp-objetoso" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Facu/tp-scala-2019-1c-parte-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../filter-configuration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/carti" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/critical-path" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/educators/educators-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/eme" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/eme/mvp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/no-patterns-only-code/examples/builder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Proyectos/severus/severus-spec" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

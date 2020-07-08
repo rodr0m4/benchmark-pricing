@@ -1,0 +1,77 @@
+[
+  {
+    "type": "PAYMENT_METHOD",
+    "amount": 0.01,
+    "method": "1"
+  },
+  {
+    "type": "PAYMENT_METHOD",
+    "amount": 0.56,
+    "method": "2"
+  },
+  {
+    "type": "PAYMENT_METHOD",
+    "amount": 0.21,
+    "method": "3"
+  },
+  {
+    "type": "BRAND",
+    "amount": 0.1,
+    "brand": "1"
+  },
+  {
+    "type": "BRAND",
+    "amount": 0.12,
+    "brand": "2"
+  },
+  {
+    "type": "BRAND",
+    "amount": 0.24,
+    "brand": "3"
+  },
+  {
+    "type": "BRAND",
+    "amount": 0.05,
+    "brand": "4"
+  },
+  {
+    "type": "BRAND",
+    "amount": 0.3,
+    "brand": "5"
+  },
+  {
+    "type": "PRICE",
+    "amount": 0.1,
+    "bound": 1200
+  },
+  {
+    "type": "PRICE",
+    "amount": 0.2,
+    "bound": 2400
+  },
+  {
+    "type": "PRICE",
+    "amount": 0.05,
+    "bound": 1000
+  },
+  {
+    "type": "PRICE",
+    "amount": 0.5,
+    "bound": 5000
+  },
+  {
+    "type": "ITEM_ID",
+    "amount": 0.1,
+    "id": "1"
+  },
+  {
+    "type": "ITEM_ID",
+    "amount": 0.2,
+    "id": "2"
+  },
+  {
+    "type": "ITEM_ID",
+    "amount": 0.6,
+    "id": "3"
+  }
+]
